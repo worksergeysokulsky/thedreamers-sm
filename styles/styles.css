@@ -65,3 +65,43 @@ h2 {
 }
 a.button8:hover { background: rgba(255,255,255,.2); }
 a.button8:active { background: white; }
+
+@media only screen
+and (min-device-width: 320px)
+and (max-device-width: 568px)
+{
+  .newText {
+      width: 250px;
+      height: 100px;
+      position: absolute;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      left: 0;
+      margin: auto;
+      text-align: center;
+    }
+
+    h1 {
+      font-size: 30px;
+      line-height: 22px;
+      font-weight: 400;
+      color: rgb(255, 255, 255);
+      font-family: 'Comfortaa', cursive;
+      letter-spacing: -7px;
+      border-width: 0px;
+      margin: 0px;
+      min-height: 51px;
+      max-height: 51px;
+    }
+    h2 {
+      font-size: 13px;
+      line-height: 35px;
+      font-weight: 400;
+      color: rgb(255, 255, 255);
+      font-family: 'Comfortaa', cursive;
+      letter-spacing: 3px;
+      visibility: inherit;
+      color: rgb(255, 255, 255);
+    }
+}
