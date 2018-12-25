@@ -27,13 +27,13 @@ h1 {
 }
 h2 {
   font-size: 13px;
-    line-height: 22px;
-    font-weight: 400;
-    color: rgb(255, 255, 255);
-    font-family: 'Comfortaa', cursive;
-    letter-spacing: 3px;
-    visibility: inherit;
-    color: rgb(255, 255, 255);
+  line-height: 22px;
+  font-weight: 400;
+  color: rgb(255, 255, 255);
+  font-family: 'Comfortaa', cursive;
+  letter-spacing: 3px;
+  visibility: inherit;
+  color: rgb(255, 255, 255);
 }
 
 .newText {
@@ -51,16 +51,17 @@ h2 {
   a.button8 {
     font-size: 13px;
     font-family: 'Comfortaa', cursive;
-  display: inline-block;
-  color: white;
-  font-weight: 700;
-  text-decoration: none;
-  user-select: none;
-  padding: .5em 2em;
-  outline: none;
-  border: 2px solid;
-  border-radius: 1px;
-  transition: 0.2s;
+    display: inline-block;
+    color: white;
+    font-weight: 700;
+    text-decoration: none;
+    user-select: none;
+    padding: .5em 2em;
+    outline: none;
+    border: 2px solid;
+    border-radius: 1px;
+    transition: 0.2s;
+    margin-top: 25px;
 }
 a.button8:hover { background: rgba(255,255,255,.2); }
 a.button8:active { background: white; }
