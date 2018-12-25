@@ -9,7 +9,6 @@ h1 {
   font-size: 60px;
   text-transform: uppercase;
   color: #FFFFFF;
-  text-align: center;
 }
 h2 {
 font-family: Comfortaa;
@@ -17,12 +16,11 @@ font-style: normal;
 font-weight: 300;
 line-height: normal;
 font-size: 13px;
-text-align: center;
 color: #FFFFFF;
 }
 
-.block {
-    width: 250px;
+.newText {
+    width: 400px;
     height: 250px;
     position: absolute;
     top: 0;
@@ -30,4 +28,5 @@ color: #FFFFFF;
     bottom: 0;
     left: 0;
     margin: auto;
-    background: #60a839;
+    text-align: center;
+  }
