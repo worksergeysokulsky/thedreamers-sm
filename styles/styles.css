@@ -14,21 +14,26 @@ html,body {
 }
 
 h1 {
+  font-size: 100px;
+  line-height: 22px;
+  font-weight: 400;
+  color: rgb(255, 255, 255);
   font-family: 'Comfortaa', cursive;
-  font-style: normal;
-  font-weight: bold;
-  line-height: normal;
-  font-size: 80px;
-  text-transform: uppercase;
-  color: #FFFFFF;
+  letter-spacing: -7px;
+  border-width: 0px;
+  margin: 0px;
+  min-height: 51px;
+  max-height: 51px;
 }
 h2 {
-font-family: 'Comfortaa', cursive;
-font-style: normal;
-font-weight: 300;
-line-height: normal;
-font-size: 13px;
-color: #FFFFFF;
+  font-size: 13px;
+    line-height: 22px;
+    font-weight: 400;
+    color: rgb(255, 255, 255);
+    font-family: 'Comfortaa', cursive;
+    letter-spacing: 3px;
+    visibility: inherit;
+    color: rgb(255, 255, 255);
 }
 
 .newText {
