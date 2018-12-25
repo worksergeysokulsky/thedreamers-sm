@@ -1,3 +1,22 @@
+html{
+  background-color: rgb(0, 0, 0);
+}
 h1 {
-  color: rgb(8, 192, 241);
+  font-family: Comfortaa;
+  font-style: normal;
+  font-weight: bold;
+  line-height: normal;
+  font-size: 60px;
+  text-transform: uppercase;
+  color: #FFFFFF;
+  text-align: center;
+}
+h2 {
+font-family: Comfortaa;
+font-style: normal;
+font-weight: 300;
+line-height: normal;
+font-size: 13px;
+text-align: center;
+color: #FFFFFF;
 }
