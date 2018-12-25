@@ -18,7 +18,7 @@ h1 {
   font-style: normal;
   font-weight: bold;
   line-height: normal;
-  font-size: 60px;
+  font-size: 80px;
   text-transform: uppercase;
   color: #FFFFFF;
 }
@@ -32,7 +32,7 @@ color: #FFFFFF;
 }
 
 .newText {
-    width: 400px;
+    width: 1000px;
     height: 250px;
     position: absolute;
     top: 0;
